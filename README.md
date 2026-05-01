@@ -1,6 +1,6 @@
 # Tool Starter
 
-Starter template voor de workshop **Van Kennis naar Interactieve Tool** van [Energieke Lieke](https://energiekelieke.nl).
+Starter template voor de workshop **Bouw jouw eigen Interactieve Kennis Tool** van [Energieke Lieke](https://energiekelieke.nl).
 
 ## Aan de slag
 
